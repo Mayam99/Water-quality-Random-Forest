@@ -60,5 +60,7 @@ Policy Making: Informing regulations and standards for water quality.
 Conclusion
 
 By understanding and analyzing the Water Quality Dataset, we can make significant strides in improving water safety and quality. This notebook will guide you through the steps of preprocessing the data, exploring machine learning model, and evaluating their performance in classifying water quality.
+
 Source
+
 https://www.kaggle.com/datasets/mssmartypants/water-quality/data
